@@ -1,0 +1,222 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - BadgeSegmentControl (2.0):
+    - BadgeSwift (~> 5.0)
+  - BadgeSwift (5.0.1)
+  - Bolts (1.9.0):
+    - Bolts/AppLinks (= 1.9.0)
+    - Bolts/Tasks (= 1.9.0)
+  - Bolts/AppLinks (1.9.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.0)
+  - CHIPageControl (0.1.7):
+    - CHIPageControl/Aji (= 0.1.7)
+    - CHIPageControl/Aleppo (= 0.1.7)
+    - CHIPageControl/Chimayo (= 0.1.7)
+    - CHIPageControl/Fresno (= 0.1.7)
+    - CHIPageControl/Jalapeno (= 0.1.7)
+    - CHIPageControl/Jaloro (= 0.1.7)
+    - CHIPageControl/Paprika (= 0.1.7)
+    - CHIPageControl/Puya (= 0.1.7)
+  - CHIPageControl/Aji (0.1.7)
+  - CHIPageControl/Aleppo (0.1.7)
+  - CHIPageControl/Chimayo (0.1.7)
+  - CHIPageControl/Fresno (0.1.7)
+  - CHIPageControl/Jalapeno (0.1.7)
+  - CHIPageControl/Jaloro (0.1.7)
+  - CHIPageControl/Paprika (0.1.7)
+  - CHIPageControl/Puya (0.1.7)
+  - DigitInputView (1.1.1)
+  - DLRadioButton (1.4.12)
+  - EMAlertController (1.0.1)
+  - ESTabBarController-swift (2.6.2)
+  - FBSDKCoreKit (4.37.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.37.0):
+    - FBSDKCoreKit
+  - Firebase/Auth (5.10.0):
+    - Firebase/CoreOnly
+    - FirebaseAuth (= 5.0.4)
+  - Firebase/CoreOnly (5.10.0):
+    - FirebaseCore (= 5.1.5)
+  - Firebase/Database (5.10.0):
+    - Firebase/CoreOnly
+    - FirebaseDatabase (= 5.0.3)
+  - Firebase/Messaging (5.10.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (= 3.2.0)
+  - Firebase/Storage (5.10.0):
+    - Firebase/CoreOnly
+    - FirebaseStorage (= 3.0.2)
+  - FirebaseAuth (5.0.4):
+    - FirebaseAuthInterop (~> 1.0)
+    - FirebaseCore (~> 5.0)
+    - GoogleUtilities/Environment (~> 5.2)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseAuthInterop (1.0.0)
+  - FirebaseCore (5.1.5):
+    - GoogleUtilities/Logger (~> 5.2)
+  - FirebaseDatabase (5.0.3):
+    - FirebaseCore (~> 5.0)
+    - leveldb-library (~> 1.18)
+  - FirebaseInstanceID (3.2.2):
+    - FirebaseCore (~> 5.1)
+    - GoogleUtilities/Environment (~> 5.3)
+    - GoogleUtilities/UserDefaults (~> 5.3)
+  - FirebaseMessaging (3.2.0):
+    - FirebaseCore (~> 5.0)
+    - FirebaseInstanceID (~> 3.0)
+    - GoogleUtilities/Environment (~> 5.2)
+    - GoogleUtilities/Reachability (~> 5.2)
+    - Protobuf (~> 3.1)
+  - FirebaseStorage (3.0.2):
+    - FirebaseAuthInterop (~> 1.0)
+    - FirebaseCore (~> 5.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FRHyperLabel (1.0.4)
+  - GoogleSignIn (4.3.0):
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GoogleToolboxForMac/NSString+URLArguments (~> 2.1)
+    - GTMOAuth2 (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.4):
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - GoogleToolboxForMac/Defines (2.1.4)
+  - GoogleToolboxForMac/NSDictionary+URLArguments (2.1.4):
+    - GoogleToolboxForMac/DebugUtils (= 2.1.4)
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+    - GoogleToolboxForMac/NSString+URLArguments (= 2.1.4)
+  - GoogleToolboxForMac/NSString+URLArguments (2.1.4)
+  - GoogleUtilities/Environment (5.3.2)
+  - GoogleUtilities/Logger (5.3.2):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/Reachability (5.3.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (5.3.2):
+    - GoogleUtilities/Logger
+  - GTMOAuth2 (1.1.6):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.2.0):
+    - GTMSessionFetcher/Full (= 1.2.0)
+  - GTMSessionFetcher/Core (1.2.0)
+  - GTMSessionFetcher/Full (1.2.0):
+    - GTMSessionFetcher/Core (= 1.2.0)
+  - IQKeyboardManagerSwift (6.2.0)
+  - KMPlaceholderTextView (1.3.0)
+  - leveldb-library (1.20)
+  - LineSDK (4.1.1)
+  - Protobuf (3.6.1)
+  - ReadMoreTextView (3.0.0)
+  - RegeributedTextView (0.2.1)
+  - Repro (3.0.1)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - SHSearchBar (1.5.0)
+  - Siren (3.7.2)
+  - SkyFloatingLabelTextField (3.6.0)
+  - Stripe (13.2.0)
+  - SVProgressHUD (2.2.5)
+  - Toaster (2.1.1)
+  - TwitterCore (3.2.0)
+  - TwitterKit (3.4.1):
+    - TwitterCore (>= 3.1.0)
+  - UICheckbox.Swift (1.0.0)
+  - XLPagerTabStrip (8.0.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BadgeSegmentControl (= 2.0)
+  - BadgeSwift (= 5.0.1)
+  - CHIPageControl (= 0.1.7)
+  - DigitInputView
+  - DLRadioButton
+  - EMAlertController (= 1.0.1)
+  - ESTabBarController-swift (= 2.6.2)
+  - FBSDKLoginKit
+  - Firebase/Auth
+  - Firebase/Database
+  - Firebase/Messaging
+  - Firebase/Storage
+  - FRHyperLabel (= 1.0.4)
+  - GoogleSignIn
+  - IQKeyboardManagerSwift
+  - KMPlaceholderTextView (= 1.3.0)
+  - LineSDK (~> 4.1.0)
+  - ReadMoreTextView (= 3.0.0)
+  - RegeributedTextView (= 0.2.1)
+  - Repro
+  - SDWebImage
+  - SHSearchBar (= 1.5.0)
+  - Siren
+  - SkyFloatingLabelTextField (~> 3.0)
+  - Stripe (= 13.2.0)
+  - SVProgressHUD
+  - Toaster
+  - TwitterKit
+  - UICheckbox.Swift (= 1.0.0)
+  - XLPagerTabStrip (= 8.0.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  BadgeSegmentControl: eb845e3e53785d066737dc460e97b5fc9a1f81df
+  BadgeSwift: 3defa56f504bfb46f2300122c4a565ec9e405c1e
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  CHIPageControl: bbe1ddd0c688c02ec65b7f7e7d34551a3d16f37c
+  DigitInputView: a102d95aa73c23ea714297b7c284ea895794e7a0
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  EMAlertController: db945aa666b737b86b0d22c9ee464e552fc63bb8
+  ESTabBarController-swift: f0a8679e43df1e60b7b36bbcaf1dc98ba6273c7d
+  FBSDKCoreKit: fe5f3474499a81963e11e3f3a5c753d0a95ca2b4
+  FBSDKLoginKit: 2f7249686d1e30ce8a5ef5400eedf50b3e3df332
+  Firebase: 6691d47562a780c26281ce8464518faafc90c610
+  FirebaseAuth: 504b198ceb3472dca5c65bb95544ea44cfc9439e
+  FirebaseAuthInterop: 0ffa57668be100582bb7643d4fcb7615496c41fc
+  FirebaseCore: c6079de64c1a87000e52e9b408dddcadc901177f
+  FirebaseDatabase: e2bcbc106adc4b11a2da3ec2eb63c0c4a44f2f54
+  FirebaseInstanceID: 78ba376fcd5b94c001f9999b2cbd3d1f1e56e78d
+  FirebaseMessaging: 000b32447b461b34b6b912b23ec11be20b503b5b
+  FirebaseStorage: fd82e5e5c474897e19972b34b22ac0f589dce04e
+  FRHyperLabel: f4a127d5f8ffb211040554615e93f936d5a576a6
+  GoogleSignIn: 11183592dc63e105475c7305a325045ff95e02b7
+  GoogleToolboxForMac: 91c824d21e85b31c2aae9bb011c5027c9b4e738f
+  GoogleUtilities: 82f04aeff8426309dbdbc75f6c8accd1e584a5da
+  GTMOAuth2: c77fe325e4acd453837e72d91e3b5f13116857b2
+  GTMSessionFetcher: 0c4baf0a73acd0041bf9f71ea018deedab5ea84e
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  KMPlaceholderTextView: 2bbcd19a273648a80a61e1e48f9743a24d8930e3
+  leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
+  LineSDK: 4d0a483f5435e911911810476717417669b5b178
+  Protobuf: 1eb9700044745f00181c136ef21b8ff3ad5a0fd5
+  ReadMoreTextView: d872de55c5850c702f8d8ce591fb70e5d00c873a
+  RegeributedTextView: b48575682b49c8d9b24aa7f7becd9c9e65bfad78
+  Repro: 8f913f8651842f24038a5e0d97259377dd75ed64
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SHSearchBar: cbec42d44f7ecfc823e492430a1a981cf784f46c
+  Siren: d3e10df09c07d37a7f13d29ec78d760975c6da0b
+  SkyFloatingLabelTextField: 38164979b79512f9ff9288ad8acfc4bbf5d843e3
+  Stripe: 2c69e216061d54d9c538204bb4f58bd597ddfc5b
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Toaster: a6c9532de1ded8105e77376f7dffeb2e12b46dbb
+  TwitterCore: 8cbc9ad34d91c63a0035ea05bfbfc0d7ca72a28c
+  TwitterKit: 054005edf5350aa9074af74b41456e5a61e3f322
+  UICheckbox.Swift: 85715689206fac5bae38b308f19c2a3e00442c3b
+  XLPagerTabStrip: c908b17cbf42fcd2598ee1adfc49bae25444d88a
+
+PODFILE CHECKSUM: eaa6b753bb2fe2fb437c41e543f2d07ad15bc9ef
+
+COCOAPODS: 1.4.0

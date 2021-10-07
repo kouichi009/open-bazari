@@ -1,0 +1,6 @@
+framework module Pods_bazari {
+  umbrella header "Pods-bazari-umbrella.h"
+
+  export *
+  module * { export * }
+}
